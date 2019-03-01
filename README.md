@@ -12,4 +12,7 @@ php -S 127.0.0.1:8080 -t php/
 # php 5
 php php/5.php
 
+# Node.js
+node node/index.js
+
 ```
